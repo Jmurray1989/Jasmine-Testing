@@ -1,7 +1,3 @@
-# Code Institute
+# Jasmine Testing
 
-Welcome USER_NAME,
-
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+A playground for me to test my JS code
